@@ -1,0 +1,16 @@
+{
+  "name": "cypressautomation2023",
+  "version": "1.0.0",
+  "description": "Automation practice for Automation Engineer roles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.12.0",
+    "cypress-mochawesome-reporter": "^3.3.0",
+    "mochawesome": "^7.1.3"
+  }
+}
